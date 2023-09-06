@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8401476548",
+    "firebase_url": "https://sid-2023-2-default-rtdb.firebaseio.com",
+    "project_id": "sid-2023-2",
+    "storage_bucket": "sid-2023-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8401476548:android:01fc66afdd6ce88a25e291",
+        "android_client_info": {
+          "package_name": "com.manolo.SID20232"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8401476548-fhpmatkoi5jro2782c0h8qd1fpuo7mdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzY_4UedU9zQqDX4R4c-VGUONnGkrf4c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8401476548-fhpmatkoi5jro2782c0h8qd1fpuo7mdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
